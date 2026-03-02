@@ -1,35 +1,80 @@
 <h1 align="center">Hi 👋, I'm Gurshan Singh</h1>
-<h3 align="center">Cybersecurity • Backend • DSA Enthusiast</h3>
+<h3 align="center">Cybersecurity • Backend Development • DSA Enthusiast</h3>
 
-🎓 2nd Year Computer Science Student  
-🔐 Aspiring SOC Analyst / Penetration Tester  
-💻 Backend & Security Focused Developer  
-📍 India  
+<p align="center">
+🎓 2nd Year Computer Science Student <br>
+🔐 Aspiring SOC Analyst / Penetration Tester <br>
+💻 Backend & Security Focused Developer <br>
+📍 India
+</p>
 
+<hr>
+
+<h2>🚀 About Me</h2>
+
+<p>
 I am a Computer Science student passionate about Cybersecurity and Backend Development.
+</p>
 
-Currently focused on:
-• Data Structures & Algorithms  
-• Linux & Networking  
-• Web Security & Pentesting  
-• Building backend projects  
+<ul>
+<li>Currently improving my <b>Data Structures & Algorithms</b></li>
+<li>Practicing <b>Web Security & Pentesting</b></li>
+<li>Building secure <b>Backend Applications</b></li>
+<li>Exploring <b>Linux, Networking & System Internals</b></li>
+</ul>
 
-I enjoy breaking things ethically and building secure systems.
+<p>
+<b>Goal:</b> Land a Cybersecurity / Backend Internship in 2026.
+</p>
 
-🧠 Languages
-C++ • Python • JavaScript • Bash
+<hr>
 
-⚙️ Backend
-Node.js • Express • REST APIs • MongoDB • MySQL
+<h2>🧠 Tech Stack</h2>
 
-🔐 Cybersecurity
-Linux • Networking • Wireshark • Nmap • Burp Suite • OWASP Top 10
+<h3>Languages</h3>
+<p>C++ • Python • JavaScript • Bash</p>
 
-🛠️ Tools
-Git • GitHub • VS Code • Docker (learning)
+<h3>Backend</h3>
+<p>Node.js • Express.js • REST APIs • MongoDB • MySQL</p>
 
-🌱 Currently Learning
-• Advanced DSA
-• Web Pentesting
-• System Design Basics
-• Linux Internals
+<h3>Cybersecurity</h3>
+<p>Linux • Networking • Wireshark • Nmap • Burp Suite • OWASP Top 10</p>
+
+<h3>Tools</h3>
+<p>Git • GitHub • VS Code • Docker (Learning)</p>
+
+<hr>
+
+<h2>🌱 Currently Learning</h2>
+
+<ul>
+<li>Advanced Data Structures & Algorithms</li>
+<li>Web Application Pentesting</li>
+<li>System Design Basics</li>
+<li>Linux Internals</li>
+</ul>
+
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+LinkedIn: <a href="https://www.linkedin.com/in/gurshan-singh-b8bb14297/">Add LinkedIn Link</a><br>
+Email: gurshansinghh4@gmail.com
+</p>
+
+<hr>
+
+<p align="center">
+🔥 Consistency beats motivation. Building daily.
+</p>
