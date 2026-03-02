@@ -57,11 +57,11 @@ I am a Computer Science student passionate about Cybersecurity and Backend Devel
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=jazzyshan&show_icons=true&theme=radical" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jazzyshan&theme=radical" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzyshan&layout=compact&theme=radical" />
 </p>
 
 <hr>
