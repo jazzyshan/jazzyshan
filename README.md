@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity • Backend Development • DSA Enthusiast</h3>
 
 <p align="center">
-🎓 2nd Year Computer Science Student <br>
+🎓 3rd Year Computer Science Student <br>
 🔐 Aspiring SOC Analyst / Penetration Tester <br>
 💻 Backend & Security Focused Developer <br>
 📍 India
